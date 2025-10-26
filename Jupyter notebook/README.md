@@ -4,7 +4,7 @@ This folder contains two Jupyter notebooks that cover the land-cover classificat
 
 Contents:
 
-'Unet_Train_Validation.ipynb`
+`Unet_Train_Validation.ipynb`
   - A U-Net for 2D segmentation with TensorFlow/Keras.
 
 `raster_tiling_predict_mosaic.ipynb`
