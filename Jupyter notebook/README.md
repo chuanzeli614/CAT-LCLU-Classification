@@ -7,7 +7,7 @@ Contents:
 'Unet_Train_Validation.ipynb`
   - A U-Net for 2D segmentation with TensorFlow/Keras.
 
-- `raster_tiling_predict_mosaic.ipynb`
+`raster_tiling_predict_mosaic.ipynb`
   - Tiling: slides a window across a large raster.
   - Prediction: loads the trained model, predicts per-pixel classes, and writes rasters.
   - Remove overlapping border for tile.
